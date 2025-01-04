@@ -17,4 +17,5 @@ A fun and interactive Python game where the computer picks a random number, and 
 1. Clone the repository and navigate to the project folder.
 2. Run the script using Python:
    ```bash
-   python guess_the_number.py
+   cd randome.py
+   
