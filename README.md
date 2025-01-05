@@ -18,4 +18,7 @@ A fun and interactive Python game where the computer picks a random number, and 
 2. Run the script using Python:
    ```bash
    cd randome.py
+3. link
+   ```bash
+      https://github.com/abderrahmane-laourf/random-python.git
    
