@@ -9,7 +9,6 @@ def guess_the_number():
     attempts = 0
     
     while True:
-        # Ask the user for their guess
         try:
             user_guess = int(input("Take a guess: "))
             attempts += 1
@@ -24,5 +23,5 @@ def guess_the_number():
         except ValueError:
             print("Please enter a valid number.")
 
-# Run the game
+
 guess_the_number()
