@@ -11,7 +11,7 @@ A fun and interactive Python game where the computer picks a random number, and 
 - 🔄 Unlimited guesses with instant feedback on each attempt.
 - 🎯 Tracks the number of guesses, so you can aim for a better score.
 
----
+--
 
 ## How to Play 🕹️
 
