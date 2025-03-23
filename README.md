@@ -1,8 +1,7 @@
 
 # Guess the Number Game 🎮
 
-A fun and interactive Python game where the computer picks a random number, and your mission is to guess it! Get helpful hints like "Too high!" or "Too low/" until you find the right number. Perfect for practicing Python skills! 🚀✨
-
+A fun and interactive Python game where the computer picks a random number, and your mission is to guess it! Get helpful hints like "Too high!" or "Too low/" until you find the right number. Perfect for practicing Python skills! 🚀✨=
 ---
 
 ## Features 🛠️
