@@ -9,7 +9,6 @@ A fun and interactive Python game where the computer picks a random number, and 
 ---
 
 ## How to Play 🕹️
-
 1. Clone the repository and navigate to the project folder.
 2. Run the script using Python:
    ```bash
