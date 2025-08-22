@@ -8,7 +8,6 @@ A fun and interactive Python game where the computer picks a random number, and 
 - 🎯 Tracks the number of guesses, so you can aim for a better score.
 ---
 
-
 ## How to Play 🕹️
 
 1. Clone the repository and navigate to the project folder.
