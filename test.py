@@ -7,7 +7,7 @@ def guess_the_number():
     # Generate a random number
     number_to_guess = random.randint(1, 100)
     attempts = 0
-    vvv
+    vv
     while True:
         try:
             user_guess = int(input("Take a guess: "))
