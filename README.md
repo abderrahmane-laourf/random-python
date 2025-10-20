@@ -4,6 +4,7 @@ A fun and interactive Python game where the computer picks a random number, and 
 --
 ## Features 🛠️
 
+
 - 🎲 Random number generation ensures a unique game every time.
 - 🔄 Unlimited guesses with instant feedback on each attempt.
 - 🎯 Tracks the number of guesses, so you can aim for a better score.
