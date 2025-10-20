@@ -8,8 +8,6 @@ A fun and interactive Python game where the computer picks a random number, and 
 - 🔄 Unlimited guesses with instant feedback on each attempt.
 - 🎯 Tracks the number of guesses, so you can aim for a better score.
 ---
-
-
 ## How to Play 🕹️
 1. Clone the repository and navigate to the project folder.
 2. Run the script using Python:
